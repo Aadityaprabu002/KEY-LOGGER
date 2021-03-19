@@ -1,0 +1,7 @@
+keystrokes.txt is the file for saving keystokes
+keylogger.cpp is the source code
+
+=================================
+Thanks for using this key logger 
+This was created by Aaditya Prabu K
+================================= 
